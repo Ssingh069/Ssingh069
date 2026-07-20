@@ -1,6 +1,6 @@
 <!-- ======================= BANNER ======================= -->
 <a href="https://github.com/Ssingh069">
-  <img width="100%" src="./assets/banner.svg" alt="banner"/>
+  <img width="100%" src="./assets/banner.png" alt="banner"/>
 </a>
 
 <!-- ======================= TYPING HEADLINE ======================= -->
