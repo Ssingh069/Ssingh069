@@ -1,8 +1,3 @@
-<!-- ======================= BANNER ======================= -->
-<a href="https://github.com/Ssingh069">
-  <img width="100%" src="./assets/banner.png" alt="banner"/>
-</a>
-
 <!-- ======================= TYPING HEADLINE ======================= -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=700&lines=Building+production-ready+AI+applications;LLM+%2B+RAG+%2B+MERN+Stack+Developer;Turning+ideas+into+intelligent+software" alt="Typing SVG" />
