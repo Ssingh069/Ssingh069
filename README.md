@@ -1,6 +1,6 @@
 <!-- ======================= BANNER ======================= -->
 <a href="https://github.com/Ssingh069">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Saurabh%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20GenAI%20%26%20LLM&descSize=18&descAlignY=60" alt="banner"/>
+  <img width="100%" src="./assets/banner.svg" alt="banner"/>
 </a>
 
 <!-- ======================= TYPING HEADLINE ======================= -->
@@ -102,12 +102,12 @@ fun_fact: Solved 200+ DSA problems on LeetCode, CodeStudio & CodeChef
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ssingh069&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ssingh069&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ssingh069&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" alt="stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Ssingh069&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssingh069&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="top langs"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssingh069&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&cache_seconds=86400" alt="top langs"/>
 </div>
 
 <div align="center">
@@ -128,7 +128,7 @@ fun_fact: Solved 200+ DSA problems on LeetCode, CodeStudio & CodeChef
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
+  <img width="100%" src="./assets/footer.svg" alt="footer"/>
   <br/>
   <i>“Turning ideas into intelligent, production-ready applications.”</i>
 </div>
